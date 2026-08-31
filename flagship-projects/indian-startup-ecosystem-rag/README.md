@@ -1,4 +1,4 @@
-# Indian Startup Ecosystem RAG
+# Indian Startup Research Assistant
 
 > **Flagship project — full code lives in its own repo:**
 > **→ https://github.com/prayagtushar/Indian-Startup-Ecosystem-RAG**

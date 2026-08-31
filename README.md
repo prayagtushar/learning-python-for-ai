@@ -16,7 +16,7 @@ Documenting everything I learn on the way to becoming an AI Product Engineer —
 
 | Project | What it is | Status | Repo |
 |---------|-----------|--------|------|
-| [Indian Startup Ecosystem RAG](flagship-projects/indian-startup-ecosystem-rag/) | Production RAG with hand-rolled hybrid retrieval + evals + tracing | 🚧 In progress | [↗](https://github.com/prayagtushar/Indian-Startup-Ecosystem-RAG) |
+| [Indian Startup Research Assistant](flagship-projects/indian-startup-ecosystem-rag/) | Production RAG with hand-rolled hybrid retrieval + evals + tracing | 🚧 In progress | [↗](https://github.com/prayagtushar/Indian-Startup-Ecosystem-RAG) |
 | [multi-llm-client](flagship-projects/multi-llm-client/) | Unified async client over OpenAI / Anthropic / Gemini | ✅ Working | [↗](https://github.com/prayagtushar/multi-llm-client) |
 | [Readora](flagship-projects/readora-ai/) | Citation-style RAG chat over PDFs (live demo) | ✅ Live | [↗](https://github.com/Prayag-09/OpsverseAI) |
 | [werewolf-agents](flagship-projects/werewolf-agents/) | Multi-agent social-deduction game, $0 on-device | ✅ v1 | [↗](https://github.com/prayagtushar/werewolf-agents) |
